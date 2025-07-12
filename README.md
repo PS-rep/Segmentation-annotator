@@ -41,11 +41,10 @@ A desktop application for annotating images with polygon masks for YOLO segmenta
 - Images and labels are saved in `images/` and `labels/` subfolders of the output directory.
 - A `dataset.yaml` file is generated for YOLO training.
 
-## Screenshots
-*Add screenshots here if desired*
+
 
 ## License
 MIT License
 
 ## Author
-*Your Name*
+*Pradeep Singh*
