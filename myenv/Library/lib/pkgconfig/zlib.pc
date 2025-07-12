@@ -1,0 +1,13 @@
+prefix=D:/FRASS PYTHON/anotation/myenv/Library
+exec_prefix=D:/FRASS PYTHON/anotation/myenv/Library
+libdir=D:/FRASS PYTHON/anotation/myenv/Library/lib
+sharedlibdir=D:/FRASS PYTHON/anotation/myenv/Library/lib
+includedir=D:/FRASS PYTHON/anotation/myenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
